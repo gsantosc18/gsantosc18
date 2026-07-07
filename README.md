@@ -1,8 +1,8 @@
 ## 
 <div align="center">
   <a href="https://github.com/gsantosc18">
-  <img height="150em" src="./profile/stats.svg"/>
-  <img height="150em" src="./profile/top-langs.svg"/>
+  <img height="190em" src="./profile/stats.svg"/>
+  <img height="190em" src="./profile/top-langs.svg"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gedalias-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
