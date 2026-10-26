@@ -122,7 +122,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">One-click, Actions-powered self-hosting for</tspan><tspan dy="1.2em" x="25">github-readme-stats &#8212; zero extra infra, 100%</tspan><tspan dy="1.2em" x="25">upstream-compatible. / &#19968;&#38190;&#29992; GitHub Actions &#33258;&#25176;&#31649;...</tspan>
+      <tspan dy="1.2em" x="25">Go implementation of GitHub Readme Stats, generating SVG</tspan><tspan dy="1.2em" x="25">stats, language, repository, gist, and WakaTime cards</tspan><tspan dy="1.2em" x="25">through HTTP, CLI, or GitHub Actions.</tspan>
     </text>
 
     <g transform="translate(30, 75)">
